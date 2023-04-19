@@ -1,0 +1,23 @@
+.Dropdown{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    margin-left: 1216px;
+    margin-left: 1566px;
+    width: 11%;
+    margin-top: 304px;
+  }
+
+  .dropdown:empty{
+    border: none;
+  }
+
+  .dropdown-row{
+    cursor: pointer;
+    text-align: start;
+    margin: -130px 11px;
+    background-color: aliceblue;
+    padding: 10px;
+    border: 2px solid pink;
+  }
