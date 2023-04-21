@@ -6,7 +6,7 @@ import Flex from './components/Flex';
 function App() {
   const myStyle={
     backgroundColor: 'black',
-    height: '100px'
+    height: '100px',
   }
   return (
     <>
