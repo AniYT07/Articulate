@@ -1,13 +1,19 @@
 {
   "files": {
     "main.css": "/Articulate/static/css/main.0d34a13a.css",
-    "main.js": "/Articulate/static/js/main.dd8eb719.js",
+    "main.js": "/Articulate/static/js/main.d58ffa2d.js",
+    "static/media/cyber_threat.png": "/Articulate/static/media/cyber_threat.878088bb164b07db7a31.png",
+    "static/media/population.png": "/Articulate/static/media/population.554ab9455edd7f496397.png",
+    "static/media/genome.png": "/Articulate/static/media/genome.b1f1de2e6645bc090390.png",
+    "static/media/education.png": "/Articulate/static/media/education.1cbd12226b1d454b7bbe.png",
+    "static/media/nuclear_fission.png": "/Articulate/static/media/nuclear_fission.218d785b14a4f88a2e33.png",
+    "static/media/climate.png": "/Articulate/static/media/climate.1a5986669873a3e90c87.png",
     "index.html": "/Articulate/index.html",
     "main.0d34a13a.css.map": "/Articulate/static/css/main.0d34a13a.css.map",
-    "main.dd8eb719.js.map": "/Articulate/static/js/main.dd8eb719.js.map"
+    "main.d58ffa2d.js.map": "/Articulate/static/js/main.d58ffa2d.js.map"
   },
   "entrypoints": [
     "static/css/main.0d34a13a.css",
-    "static/js/main.dd8eb719.js"
+    "static/js/main.d58ffa2d.js"
   ]
 }
